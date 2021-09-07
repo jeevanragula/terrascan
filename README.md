@@ -1,5 +1,7 @@
 ![Terrascan](https://raw.githubusercontent.com/accurics/terrascan/master/docs/img/Terrascan_By_Accurics_Logo_38B34A-333F48.svg)
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/19961a4a-e473-43af-9855-02062a3e48ec.svg)](https://app.soluble.cloud/repos/details/github.com/jeevanragula/terrascan)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/7bce80e0-8fcc-4402-a7ad-32305857f129.svg)](https://app.soluble.cloud/repos/details/github.com/jeevanragula/terrascan)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/0420ef08-d904-4458-82ac-e07c818ec9ae.svg)](https://app.soluble.cloud/repos/details/github.com/jeevanragula/terrascan)  
+
 [![GitHub release](https://img.shields.io/github/release/accurics/terrascan)](https://github.com/accurics/terrascan/releases/latest)
 [![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/accurics/terrascan/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/accurics/terrascan/pulls)
